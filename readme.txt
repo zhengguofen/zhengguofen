@@ -7,3 +7,4 @@ bushi ni o!
 java开发
 我叫石坑中的路人丁 
 shi a shi a!
+add merage;
